@@ -1,0 +1,48 @@
+<section id="featured">
+  <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+              <h1 class="section-heading text-center">Upcoming Events</h1>
+              <!-- <h3 class="text-center">See our Calendar Page for more details</h3> -->
+          </div>
+
+
+          <!-- Panel -->
+          <div class="col-xs-12 col-sm-12 col-md-12">
+            <div class="panel panel-default wow fadeIn" data-wow-delay=".5s">
+              <div class="panel-body">
+                <img src="img/events/songbook.jpg">
+              </div>
+              <div class="panel-footer">
+                <ul>
+                  <li>Great American Songbook</li>
+                  <li><i class="fa fa-calendar" aria-hidden="true">  June 25th at 4:00PM</i></li>
+                  <p></p>
+                  <p style="font-size:12px">The Saint Anthony of Padua's Music Ministry invites you to Part IV of the Recital Series - The Great American Songbook, with Melissa Thornton, Soloist</p>
+                  <!-- <a href="img/events/40hours.pdf" target="_blank" class="btn btn-primary btn-xl">40 Hours Devotion Schedule</a> -->
+                </ul>
+              </div>
+            </div>
+          </div>
+          <!-- end of Panel -->
+
+          <!-- Panel
+          <div class="col-xs-12 col-sm-3 col-md-3">
+            <div class="panel panel-default wow fadeInUp" data-wow-delay=".65s">
+              <div class="panel-body">
+                <img src="img/events/posadas.png">
+              </div>
+              <div class="panel-footer">
+                <ul>
+                  <li>Las Posadas</li>
+                  <li><i class="fa fa-calendar" aria-hidden="true">  12/18/16 at 4:00PM</i></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          end of Panel -->
+
+</div>
+
+</div>
+</section>
